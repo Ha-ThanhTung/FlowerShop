@@ -12,7 +12,7 @@
 
 ## Step 2
 - Open the program in Visual Studio.
-- Open the Web.config file and update the TNS_ADMIN to match your machine's path. For example, TNS_ADMIN=C:\Users\LE\Oracle\network\admin.
+- Open the Web.config file and update the TNS_ADMIN to match your machine's path. For example, TNS_ADMIN=C:\Users\Oracle\network\admin.
 
 ## Step 3
 - Run the program.
