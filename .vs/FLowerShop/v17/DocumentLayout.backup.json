@@ -1,0 +1,880 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tungh\\OneDrive\\M\u00E1y t\u00EDnh\\FLowerShop.NET-main\\FLowerShop.NET-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{38238DBC-DFE6-450A-86CC-D890CDAC8302}|FlowerShop\\FlowerShop.csproj|C:\\Users\\tungh\\OneDrive\\M\u00E1y t\u00EDnh\\FLowerShop.NET-main\\FLowerShop.NET-main\\flowershop\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38238DBC-DFE6-450A-86CC-D890CDAC8302}|FlowerShop\\FlowerShop.csproj|solutionrelative:flowershop\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38238DBC-DFE6-450A-86CC-D890CDAC8302}|FlowerShop\\FlowerShop.csproj|c:\\users\\tungh\\onedrive\\m\u00E1y t\u00EDnh\\flowershop.net-main\\flowershop.net-main\\flowershop\\models\\cartflowermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38238DBC-DFE6-450A-86CC-D890CDAC8302}|FlowerShop\\FlowerShop.csproj|solutionrelative:flowershop\\models\\cartflowermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38238DBC-DFE6-450A-86CC-D890CDAC8302}|FlowerShop\\FlowerShop.csproj|c:\\users\\tungh\\onedrive\\m\u00E1y t\u00EDnh\\flowershop.net-main\\flowershop.net-main\\flowershop\\models\\detailmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38238DBC-DFE6-450A-86CC-D890CDAC8302}|FlowerShop\\FlowerShop.csproj|solutionrelative:flowershop\\models\\detailmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38238DBC-DFE6-450A-86CC-D890CDAC8302}|FlowerShop\\FlowerShop.csproj|C:\\Users\\tungh\\OneDrive\\M\u00E1y t\u00EDnh\\FLowerShop.NET-main\\FLowerShop.NET-main\\flowershop\\models\\ordermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38238DBC-DFE6-450A-86CC-D890CDAC8302}|FlowerShop\\FlowerShop.csproj|solutionrelative:flowershop\\models\\ordermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38238DBC-DFE6-450A-86CC-D890CDAC8302}|FlowerShop\\FlowerShop.csproj|C:\\Users\\tungh\\OneDrive\\M\u00E1y t\u00EDnh\\FLowerShop.NET-main\\FLowerShop.NET-main\\flowershop\\models\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38238DBC-DFE6-450A-86CC-D890CDAC8302}|FlowerShop\\FlowerShop.csproj|solutionrelative:flowershop\\models\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38238DBC-DFE6-450A-86CC-D890CDAC8302}|FlowerShop\\FlowerShop.csproj|c:\\users\\tungh\\onedrive\\m\u00E1y t\u00EDnh\\flowershop.net-main\\flowershop.net-main\\flowershop\\models\\searchmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38238DBC-DFE6-450A-86CC-D890CDAC8302}|FlowerShop\\FlowerShop.csproj|solutionrelative:flowershop\\models\\searchmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38238DBC-DFE6-450A-86CC-D890CDAC8302}|FlowerShop\\FlowerShop.csproj|c:\\users\\tungh\\onedrive\\m\u00E1y t\u00EDnh\\flowershop.net-main\\flowershop.net-main\\flowershop\\service\\apiprovince.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38238DBC-DFE6-450A-86CC-D890CDAC8302}|FlowerShop\\FlowerShop.csproj|solutionrelative:flowershop\\service\\apiprovince.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38238DBC-DFE6-450A-86CC-D890CDAC8302}|FlowerShop\\FlowerShop.csproj|C:\\Users\\tungh\\OneDrive\\M\u00E1y t\u00EDnh\\FLowerShop.NET-main\\FLowerShop.NET-main\\flowershop\\service\\customauthorizeattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38238DBC-DFE6-450A-86CC-D890CDAC8302}|FlowerShop\\FlowerShop.csproj|solutionrelative:flowershop\\service\\customauthorizeattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38238DBC-DFE6-450A-86CC-D890CDAC8302}|FlowerShop\\FlowerShop.csproj|C:\\Users\\tungh\\OneDrive\\M\u00E1y t\u00EDnh\\FLowerShop.NET-main\\FLowerShop.NET-main\\flowershop\\service\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38238DBC-DFE6-450A-86CC-D890CDAC8302}|FlowerShop\\FlowerShop.csproj|solutionrelative:flowershop\\service\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38238DBC-DFE6-450A-86CC-D890CDAC8302}|FlowerShop\\FlowerShop.csproj|c:\\users\\tungh\\onedrive\\m\u00E1y t\u00EDnh\\flowershop.net-main\\flowershop.net-main\\flowershop\\service\\nocacheattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38238DBC-DFE6-450A-86CC-D890CDAC8302}|FlowerShop\\FlowerShop.csproj|solutionrelative:flowershop\\service\\nocacheattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38238DBC-DFE6-450A-86CC-D890CDAC8302}|FlowerShop\\FlowerShop.csproj|c:\\users\\tungh\\onedrive\\m\u00E1y t\u00EDnh\\flowershop.net-main\\flowershop.net-main\\flowershop\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38238DBC-DFE6-450A-86CC-D890CDAC8302}|FlowerShop\\FlowerShop.csproj|solutionrelative:flowershop\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38238DBC-DFE6-450A-86CC-D890CDAC8302}|FlowerShop\\FlowerShop.csproj|C:\\Users\\tungh\\OneDrive\\M\u00E1y t\u00EDnh\\FLowerShop.NET-main\\FLowerShop.NET-main\\flowershop\\controllers\\flowertypescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38238DBC-DFE6-450A-86CC-D890CDAC8302}|FlowerShop\\FlowerShop.csproj|solutionrelative:flowershop\\controllers\\flowertypescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38238DBC-DFE6-450A-86CC-D890CDAC8302}|FlowerShop\\FlowerShop.csproj|C:\\Users\\tungh\\OneDrive\\M\u00E1y t\u00EDnh\\FLowerShop.NET-main\\FLowerShop.NET-main\\flowershop\\views\\flowertypes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{38238DBC-DFE6-450A-86CC-D890CDAC8302}|FlowerShop\\FlowerShop.csproj|solutionrelative:flowershop\\views\\flowertypes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38238DBC-DFE6-450A-86CC-D890CDAC8302}|FlowerShop\\FlowerShop.csproj|C:\\Users\\tungh\\OneDrive\\M\u00E1y t\u00EDnh\\FLowerShop.NET-main\\FLowerShop.NET-main\\flowershop\\views\\account\\orderhistory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{38238DBC-DFE6-450A-86CC-D890CDAC8302}|FlowerShop\\FlowerShop.csproj|solutionrelative:flowershop\\views\\account\\orderhistory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38238DBC-DFE6-450A-86CC-D890CDAC8302}|FlowerShop\\FlowerShop.csproj|C:\\Users\\tungh\\OneDrive\\M\u00E1y t\u00EDnh\\FLowerShop.NET-main\\FLowerShop.NET-main\\flowershop\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{38238DBC-DFE6-450A-86CC-D890CDAC8302}|FlowerShop\\FlowerShop.csproj|solutionrelative:flowershop\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38238DBC-DFE6-450A-86CC-D890CDAC8302}|FlowerShop\\FlowerShop.csproj|C:\\Users\\tungh\\OneDrive\\M\u00E1y t\u00EDnh\\FLowerShop.NET-main\\FLowerShop.NET-main\\flowershop\\areas\\admin\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38238DBC-DFE6-450A-86CC-D890CDAC8302}|FlowerShop\\FlowerShop.csproj|solutionrelative:flowershop\\areas\\admin\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38238DBC-DFE6-450A-86CC-D890CDAC8302}|FlowerShop\\FlowerShop.csproj|C:\\Users\\tungh\\OneDrive\\M\u00E1y t\u00EDnh\\FLowerShop.NET-main\\FLowerShop.NET-main\\flowershop\\areas\\admin\\views\\account\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{38238DBC-DFE6-450A-86CC-D890CDAC8302}|FlowerShop\\FlowerShop.csproj|solutionrelative:flowershop\\areas\\admin\\views\\account\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38238DBC-DFE6-450A-86CC-D890CDAC8302}|FlowerShop\\FlowerShop.csproj|C:\\Users\\tungh\\OneDrive\\M\u00E1y t\u00EDnh\\FLowerShop.NET-main\\FLowerShop.NET-main\\flowershop\\controllers\\flowerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38238DBC-DFE6-450A-86CC-D890CDAC8302}|FlowerShop\\FlowerShop.csproj|solutionrelative:flowershop\\controllers\\flowerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38238DBC-DFE6-450A-86CC-D890CDAC8302}|FlowerShop\\FlowerShop.csproj|C:\\Users\\tungh\\OneDrive\\M\u00E1y t\u00EDnh\\FLowerShop.NET-main\\FLowerShop.NET-main\\flowershop\\views\\flowers\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{38238DBC-DFE6-450A-86CC-D890CDAC8302}|FlowerShop\\FlowerShop.csproj|solutionrelative:flowershop\\views\\flowers\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38238DBC-DFE6-450A-86CC-D890CDAC8302}|FlowerShop\\FlowerShop.csproj|C:\\Users\\tungh\\OneDrive\\M\u00E1y t\u00EDnh\\FLowerShop.NET-main\\FLowerShop.NET-main\\flowershop\\views\\shared\\_flowersearch.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{38238DBC-DFE6-450A-86CC-D890CDAC8302}|FlowerShop\\FlowerShop.csproj|solutionrelative:flowershop\\views\\shared\\_flowersearch.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38238DBC-DFE6-450A-86CC-D890CDAC8302}|FlowerShop\\FlowerShop.csproj|C:\\Users\\tungh\\OneDrive\\M\u00E1y t\u00EDnh\\FLowerShop.NET-main\\FLowerShop.NET-main\\flowershop\\views\\shared\\_flowertype.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{38238DBC-DFE6-450A-86CC-D890CDAC8302}|FlowerShop\\FlowerShop.csproj|solutionrelative:flowershop\\views\\shared\\_flowertype.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38238DBC-DFE6-450A-86CC-D890CDAC8302}|FlowerShop\\FlowerShop.csproj|C:\\Users\\tungh\\OneDrive\\M\u00E1y t\u00EDnh\\FLowerShop.NET-main\\FLowerShop.NET-main\\flowershop\\controllers\\checkoutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38238DBC-DFE6-450A-86CC-D890CDAC8302}|FlowerShop\\FlowerShop.csproj|solutionrelative:flowershop\\controllers\\checkoutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38238DBC-DFE6-450A-86CC-D890CDAC8302}|FlowerShop\\FlowerShop.csproj|C:\\Users\\tungh\\OneDrive\\M\u00E1y t\u00EDnh\\FLowerShop.NET-main\\FLowerShop.NET-main\\flowershop\\areas\\admin\\controllers\\flowertypescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38238DBC-DFE6-450A-86CC-D890CDAC8302}|FlowerShop\\FlowerShop.csproj|solutionrelative:flowershop\\areas\\admin\\controllers\\flowertypescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38238DBC-DFE6-450A-86CC-D890CDAC8302}|FlowerShop\\FlowerShop.csproj|C:\\Users\\tungh\\OneDrive\\M\u00E1y t\u00EDnh\\FLowerShop.NET-main\\FLowerShop.NET-main\\flowershop\\controllers\\shoppingcartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38238DBC-DFE6-450A-86CC-D890CDAC8302}|FlowerShop\\FlowerShop.csproj|solutionrelative:flowershop\\controllers\\shoppingcartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38238DBC-DFE6-450A-86CC-D890CDAC8302}|FlowerShop\\FlowerShop.csproj|C:\\Users\\tungh\\OneDrive\\M\u00E1y t\u00EDnh\\FLowerShop.NET-main\\FLowerShop.NET-main\\flowershop\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38238DBC-DFE6-450A-86CC-D890CDAC8302}|FlowerShop\\FlowerShop.csproj|solutionrelative:flowershop\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38238DBC-DFE6-450A-86CC-D890CDAC8302}|FlowerShop\\FlowerShop.csproj|C:\\Users\\tungh\\OneDrive\\M\u00E1y t\u00EDnh\\FLowerShop.NET-main\\FLowerShop.NET-main\\flowershop\\views\\account\\account.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{38238DBC-DFE6-450A-86CC-D890CDAC8302}|FlowerShop\\FlowerShop.csproj|solutionrelative:flowershop\\views\\account\\account.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38238DBC-DFE6-450A-86CC-D890CDAC8302}|FlowerShop\\FlowerShop.csproj|C:\\Users\\tungh\\OneDrive\\M\u00E1y t\u00EDnh\\FLowerShop.NET-main\\FLowerShop.NET-main\\flowershop\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38238DBC-DFE6-450A-86CC-D890CDAC8302}|FlowerShop\\FlowerShop.csproj|solutionrelative:flowershop\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38238DBC-DFE6-450A-86CC-D890CDAC8302}|FlowerShop\\FlowerShop.csproj|C:\\Users\\tungh\\OneDrive\\M\u00E1y t\u00EDnh\\FLowerShop.NET-main\\FLowerShop.NET-main\\flowershop\\areas\\admin\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38238DBC-DFE6-450A-86CC-D890CDAC8302}|FlowerShop\\FlowerShop.csproj|solutionrelative:flowershop\\areas\\admin\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38238DBC-DFE6-450A-86CC-D890CDAC8302}|FlowerShop\\FlowerShop.csproj|C:\\Users\\tungh\\OneDrive\\M\u00E1y t\u00EDnh\\FLowerShop.NET-main\\FLowerShop.NET-main\\flowershop\\areas\\admin\\controllers\\discountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38238DBC-DFE6-450A-86CC-D890CDAC8302}|FlowerShop\\FlowerShop.csproj|solutionrelative:flowershop\\areas\\admin\\controllers\\discountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38238DBC-DFE6-450A-86CC-D890CDAC8302}|FlowerShop\\FlowerShop.csproj|C:\\Users\\tungh\\OneDrive\\M\u00E1y t\u00EDnh\\FLowerShop.NET-main\\FLowerShop.NET-main\\flowershop\\areas\\admin\\controllers\\flowerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38238DBC-DFE6-450A-86CC-D890CDAC8302}|FlowerShop\\FlowerShop.csproj|solutionrelative:flowershop\\areas\\admin\\controllers\\flowerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38238DBC-DFE6-450A-86CC-D890CDAC8302}|FlowerShop\\FlowerShop.csproj|C:\\Users\\tungh\\OneDrive\\M\u00E1y t\u00EDnh\\FLowerShop.NET-main\\FLowerShop.NET-main\\flowershop\\areas\\admin\\views\\orders\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{38238DBC-DFE6-450A-86CC-D890CDAC8302}|FlowerShop\\FlowerShop.csproj|solutionrelative:flowershop\\areas\\admin\\views\\orders\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38238DBC-DFE6-450A-86CC-D890CDAC8302}|FlowerShop\\FlowerShop.csproj|C:\\Users\\tungh\\OneDrive\\M\u00E1y t\u00EDnh\\FLowerShop.NET-main\\FLowerShop.NET-main\\flowershop\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{38238DBC-DFE6-450A-86CC-D890CDAC8302}|FlowerShop\\FlowerShop.csproj|solutionrelative:flowershop\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38238DBC-DFE6-450A-86CC-D890CDAC8302}|FlowerShop\\FlowerShop.csproj|C:\\Users\\tungh\\OneDrive\\M\u00E1y t\u00EDnh\\FLowerShop.NET-main\\FLowerShop.NET-main\\flowershop\\areas\\admin\\views\\orders\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{38238DBC-DFE6-450A-86CC-D890CDAC8302}|FlowerShop\\FlowerShop.csproj|solutionrelative:flowershop\\areas\\admin\\views\\orders\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38238DBC-DFE6-450A-86CC-D890CDAC8302}|FlowerShop\\FlowerShop.csproj|C:\\Users\\tungh\\OneDrive\\M\u00E1y t\u00EDnh\\FLowerShop.NET-main\\FLowerShop.NET-main\\flowershop\\views\\shared\\_mailtexttocustomer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{38238DBC-DFE6-450A-86CC-D890CDAC8302}|FlowerShop\\FlowerShop.csproj|solutionrelative:flowershop\\views\\shared\\_mailtexttocustomer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38238DBC-DFE6-450A-86CC-D890CDAC8302}|FlowerShop\\FlowerShop.csproj|C:\\Users\\tungh\\OneDrive\\M\u00E1y t\u00EDnh\\FLowerShop.NET-main\\FLowerShop.NET-main\\flowershop\\areas\\admin\\views\\flowertypes\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{38238DBC-DFE6-450A-86CC-D890CDAC8302}|FlowerShop\\FlowerShop.csproj|solutionrelative:flowershop\\areas\\admin\\views\\flowertypes\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38238DBC-DFE6-450A-86CC-D890CDAC8302}|FlowerShop\\FlowerShop.csproj|C:\\Users\\tungh\\OneDrive\\M\u00E1y t\u00EDnh\\FLowerShop.NET-main\\FLowerShop.NET-main\\flowershop\\areas\\admin\\views\\discount\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{38238DBC-DFE6-450A-86CC-D890CDAC8302}|FlowerShop\\FlowerShop.csproj|solutionrelative:flowershop\\areas\\admin\\views\\discount\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38238DBC-DFE6-450A-86CC-D890CDAC8302}|FlowerShop\\FlowerShop.csproj|C:\\Users\\tungh\\OneDrive\\M\u00E1y t\u00EDnh\\FLowerShop.NET-main\\FLowerShop.NET-main\\flowershop\\areas\\admin\\views\\flowers\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{38238DBC-DFE6-450A-86CC-D890CDAC8302}|FlowerShop\\FlowerShop.csproj|solutionrelative:flowershop\\areas\\admin\\views\\flowers\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38238DBC-DFE6-450A-86CC-D890CDAC8302}|FlowerShop\\FlowerShop.csproj|C:\\Users\\tungh\\OneDrive\\M\u00E1y t\u00EDnh\\FLowerShop.NET-main\\FLowerShop.NET-main\\flowershop\\areas\\admin\\views\\account\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{38238DBC-DFE6-450A-86CC-D890CDAC8302}|FlowerShop\\FlowerShop.csproj|solutionrelative:flowershop\\areas\\admin\\views\\account\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38238DBC-DFE6-450A-86CC-D890CDAC8302}|FlowerShop\\FlowerShop.csproj|C:\\Users\\tungh\\OneDrive\\M\u00E1y t\u00EDnh\\FLowerShop.NET-main\\FLowerShop.NET-main\\flowershop\\areas\\admin\\views\\discount\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{38238DBC-DFE6-450A-86CC-D890CDAC8302}|FlowerShop\\FlowerShop.csproj|solutionrelative:flowershop\\areas\\admin\\views\\discount\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38238DBC-DFE6-450A-86CC-D890CDAC8302}|FlowerShop\\FlowerShop.csproj|C:\\Users\\tungh\\OneDrive\\M\u00E1y t\u00EDnh\\FLowerShop.NET-main\\FLowerShop.NET-main\\flowershop\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{38238DBC-DFE6-450A-86CC-D890CDAC8302}|FlowerShop\\FlowerShop.csproj|solutionrelative:flowershop\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38238DBC-DFE6-450A-86CC-D890CDAC8302}|FlowerShop\\FlowerShop.csproj|C:\\Users\\tungh\\OneDrive\\M\u00E1y t\u00EDnh\\FLowerShop.NET-main\\FLowerShop.NET-main\\flowershop\\areas\\admin\\views\\discount\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{38238DBC-DFE6-450A-86CC-D890CDAC8302}|FlowerShop\\FlowerShop.csproj|solutionrelative:flowershop\\areas\\admin\\views\\discount\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38238DBC-DFE6-450A-86CC-D890CDAC8302}|FlowerShop\\FlowerShop.csproj|C:\\Users\\tungh\\OneDrive\\M\u00E1y t\u00EDnh\\FLowerShop.NET-main\\FLowerShop.NET-main\\flowershop\\areas\\admin\\views\\discount\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{38238DBC-DFE6-450A-86CC-D890CDAC8302}|FlowerShop\\FlowerShop.csproj|solutionrelative:flowershop\\areas\\admin\\views\\discount\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38238DBC-DFE6-450A-86CC-D890CDAC8302}|FlowerShop\\FlowerShop.csproj|C:\\Users\\tungh\\OneDrive\\M\u00E1y t\u00EDnh\\FLowerShop.NET-main\\FLowerShop.NET-main\\flowershop\\context\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38238DBC-DFE6-450A-86CC-D890CDAC8302}|FlowerShop\\FlowerShop.csproj|solutionrelative:flowershop\\context\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38238DBC-DFE6-450A-86CC-D890CDAC8302}|FlowerShop\\FlowerShop.csproj|C:\\Users\\tungh\\OneDrive\\M\u00E1y t\u00EDnh\\FLowerShop.NET-main\\FLowerShop.NET-main\\flowershop\\areas\\admin\\views\\account\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{38238DBC-DFE6-450A-86CC-D890CDAC8302}|FlowerShop\\FlowerShop.csproj|solutionrelative:flowershop\\areas\\admin\\views\\account\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38238DBC-DFE6-450A-86CC-D890CDAC8302}|FlowerShop\\FlowerShop.csproj|C:\\Users\\tungh\\OneDrive\\M\u00E1y t\u00EDnh\\FLowerShop.NET-main\\FLowerShop.NET-main\\flowershop\\context\\discountcode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38238DBC-DFE6-450A-86CC-D890CDAC8302}|FlowerShop\\FlowerShop.csproj|solutionrelative:flowershop\\context\\discountcode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38238DBC-DFE6-450A-86CC-D890CDAC8302}|FlowerShop\\FlowerShop.csproj|C:\\Users\\tungh\\OneDrive\\M\u00E1y t\u00EDnh\\FLowerShop.NET-main\\FLowerShop.NET-main\\flowershop\\views\\shared\\_mailtexttoadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{38238DBC-DFE6-450A-86CC-D890CDAC8302}|FlowerShop\\FlowerShop.csproj|solutionrelative:flowershop\\views\\shared\\_mailtexttoadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38238DBC-DFE6-450A-86CC-D890CDAC8302}|FlowerShop\\FlowerShop.csproj|C:\\Users\\tungh\\OneDrive\\M\u00E1y t\u00EDnh\\FLowerShop.NET-main\\FLowerShop.NET-main\\flowershop\\views\\shared\\_cartflower.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{38238DBC-DFE6-450A-86CC-D890CDAC8302}|FlowerShop\\FlowerShop.csproj|solutionrelative:flowershop\\views\\shared\\_cartflower.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38238DBC-DFE6-450A-86CC-D890CDAC8302}|FlowerShop\\FlowerShop.csproj|C:\\Users\\tungh\\OneDrive\\M\u00E1y t\u00EDnh\\FLowerShop.NET-main\\FLowerShop.NET-main\\flowershop\\views\\account\\orderdetail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{38238DBC-DFE6-450A-86CC-D890CDAC8302}|FlowerShop\\FlowerShop.csproj|solutionrelative:flowershop\\views\\account\\orderdetail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38238DBC-DFE6-450A-86CC-D890CDAC8302}|FlowerShop\\FlowerShop.csproj|C:\\Users\\tungh\\OneDrive\\M\u00E1y t\u00EDnh\\FLowerShop.NET-main\\FLowerShop.NET-main\\flowershop\\areas\\admin\\views\\flowertypes\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{38238DBC-DFE6-450A-86CC-D890CDAC8302}|FlowerShop\\FlowerShop.csproj|solutionrelative:flowershop\\areas\\admin\\views\\flowertypes\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38238DBC-DFE6-450A-86CC-D890CDAC8302}|FlowerShop\\FlowerShop.csproj|C:\\Users\\tungh\\OneDrive\\M\u00E1y t\u00EDnh\\FLowerShop.NET-main\\FLowerShop.NET-main\\flowershop\\areas\\admin\\views\\flowers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{38238DBC-DFE6-450A-86CC-D890CDAC8302}|FlowerShop\\FlowerShop.csproj|solutionrelative:flowershop\\areas\\admin\\views\\flowers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38238DBC-DFE6-450A-86CC-D890CDAC8302}|FlowerShop\\FlowerShop.csproj|C:\\Users\\tungh\\OneDrive\\M\u00E1y t\u00EDnh\\FLowerShop.NET-main\\FLowerShop.NET-main\\flowershop\\views\\flowers\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{38238DBC-DFE6-450A-86CC-D890CDAC8302}|FlowerShop\\FlowerShop.csproj|solutionrelative:flowershop\\views\\flowers\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38238DBC-DFE6-450A-86CC-D890CDAC8302}|FlowerShop\\FlowerShop.csproj|C:\\Users\\tungh\\OneDrive\\M\u00E1y t\u00EDnh\\FLowerShop.NET-main\\FLowerShop.NET-main\\flowershop\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{38238DBC-DFE6-450A-86CC-D890CDAC8302}|FlowerShop\\FlowerShop.csproj|solutionrelative:flowershop\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38238DBC-DFE6-450A-86CC-D890CDAC8302}|FlowerShop\\FlowerShop.csproj|C:\\Users\\tungh\\OneDrive\\M\u00E1y t\u00EDnh\\FLowerShop.NET-main\\FLowerShop.NET-main\\flowershop\\areas\\admin\\views\\flowers\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{38238DBC-DFE6-450A-86CC-D890CDAC8302}|FlowerShop\\FlowerShop.csproj|solutionrelative:flowershop\\areas\\admin\\views\\flowers\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CartFlowerModel.cs",
+              "DocumentMoniker": "C:\\Users\\tungh\\OneDrive\\M\u00E1y t\u00EDnh\\FLowerShop.NET-main\\FLowerShop.NET-main\\FLowerShop\\Models\\CartFlowerModel.cs",
+              "RelativeDocumentMoniker": "FLowerShop\\Models\\CartFlowerModel.cs",
+              "ToolTip": "C:\\Users\\tungh\\OneDrive\\M\u00E1y t\u00EDnh\\FLowerShop.NET-main\\FLowerShop.NET-main\\FLowerShop\\Models\\CartFlowerModel.cs",
+              "RelativeToolTip": "FLowerShop\\Models\\CartFlowerModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T15:33:15.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApiProvince.cs",
+              "DocumentMoniker": "C:\\Users\\tungh\\OneDrive\\M\u00E1y t\u00EDnh\\FLowerShop.NET-main\\FLowerShop.NET-main\\FLowerShop\\Service\\ApiProvince.cs",
+              "RelativeDocumentMoniker": "FLowerShop\\Service\\ApiProvince.cs",
+              "ToolTip": "C:\\Users\\tungh\\OneDrive\\M\u00E1y t\u00EDnh\\FLowerShop.NET-main\\FLowerShop.NET-main\\FLowerShop\\Service\\ApiProvince.cs",
+              "RelativeToolTip": "FLowerShop\\Service\\ApiProvince.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T15:32:52.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Result.cs",
+              "DocumentMoniker": "C:\\Users\\tungh\\OneDrive\\M\u00E1y t\u00EDnh\\FLowerShop.NET-main\\FLowerShop.NET-main\\FLowerShop\\Models\\Result.cs",
+              "RelativeDocumentMoniker": "FLowerShop\\Models\\Result.cs",
+              "ToolTip": "C:\\Users\\tungh\\OneDrive\\M\u00E1y t\u00EDnh\\FLowerShop.NET-main\\FLowerShop.NET-main\\FLowerShop\\Models\\Result.cs",
+              "RelativeToolTip": "FLowerShop\\Models\\Result.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T15:28:25.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SearchModel.cs",
+              "DocumentMoniker": "C:\\Users\\tungh\\OneDrive\\M\u00E1y t\u00EDnh\\FLowerShop.NET-main\\FLowerShop.NET-main\\FLowerShop\\Models\\SearchModel.cs",
+              "RelativeDocumentMoniker": "FLowerShop\\Models\\SearchModel.cs",
+              "ToolTip": "C:\\Users\\tungh\\OneDrive\\M\u00E1y t\u00EDnh\\FLowerShop.NET-main\\FLowerShop.NET-main\\FLowerShop\\Models\\SearchModel.cs",
+              "RelativeToolTip": "FLowerShop\\Models\\SearchModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T15:29:48.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderModel.cs",
+              "DocumentMoniker": "C:\\Users\\tungh\\OneDrive\\M\u00E1y t\u00EDnh\\FLowerShop.NET-main\\FLowerShop.NET-main\\FLowerShop\\Models\\OrderModel.cs",
+              "RelativeDocumentMoniker": "FLowerShop\\Models\\OrderModel.cs",
+              "ToolTip": "C:\\Users\\tungh\\OneDrive\\M\u00E1y t\u00EDnh\\FLowerShop.NET-main\\FLowerShop.NET-main\\FLowerShop\\Models\\OrderModel.cs",
+              "RelativeToolTip": "FLowerShop\\Models\\OrderModel.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwAsAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T15:28:26.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\tungh\\OneDrive\\M\u00E1y t\u00EDnh\\FLowerShop.NET-main\\FLowerShop.NET-main\\FLowerShop\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "FLowerShop\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\tungh\\OneDrive\\M\u00E1y t\u00EDnh\\FLowerShop.NET-main\\FLowerShop.NET-main\\FLowerShop\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "FLowerShop\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T15:28:25.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CustomAuthorizeAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\tungh\\OneDrive\\M\u00E1y t\u00EDnh\\FLowerShop.NET-main\\FLowerShop.NET-main\\FLowerShop\\Service\\CustomAuthorizeAttribute.cs",
+              "RelativeDocumentMoniker": "FLowerShop\\Service\\CustomAuthorizeAttribute.cs",
+              "ToolTip": "C:\\Users\\tungh\\OneDrive\\M\u00E1y t\u00EDnh\\FLowerShop.NET-main\\FLowerShop.NET-main\\FLowerShop\\Service\\CustomAuthorizeAttribute.cs",
+              "RelativeToolTip": "FLowerShop\\Service\\CustomAuthorizeAttribute.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T15:28:25.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DetailModel.cs",
+              "DocumentMoniker": "C:\\Users\\tungh\\OneDrive\\M\u00E1y t\u00EDnh\\FLowerShop.NET-main\\FLowerShop.NET-main\\FLowerShop\\Models\\DetailModel.cs",
+              "RelativeDocumentMoniker": "FLowerShop\\Models\\DetailModel.cs",
+              "ToolTip": "C:\\Users\\tungh\\OneDrive\\M\u00E1y t\u00EDnh\\FLowerShop.NET-main\\FLowerShop.NET-main\\FLowerShop\\Models\\DetailModel.cs",
+              "RelativeToolTip": "FLowerShop\\Models\\DetailModel.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T15:30:09.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "C:\\Users\\tungh\\OneDrive\\M\u00E1y t\u00EDnh\\FLowerShop.NET-main\\FLowerShop.NET-main\\FLowerShop\\Service\\EmailService.cs",
+              "RelativeDocumentMoniker": "FLowerShop\\Service\\EmailService.cs",
+              "ToolTip": "C:\\Users\\tungh\\OneDrive\\M\u00E1y t\u00EDnh\\FLowerShop.NET-main\\FLowerShop.NET-main\\FLowerShop\\Service\\EmailService.cs",
+              "RelativeToolTip": "FLowerShop\\Service\\EmailService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T15:28:26.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "NoCacheAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\tungh\\OneDrive\\M\u00E1y t\u00EDnh\\FLowerShop.NET-main\\FLowerShop.NET-main\\FLowerShop\\Service\\NoCacheAttribute.cs",
+              "RelativeDocumentMoniker": "FLowerShop\\Service\\NoCacheAttribute.cs",
+              "ToolTip": "C:\\Users\\tungh\\OneDrive\\M\u00E1y t\u00EDnh\\FLowerShop.NET-main\\FLowerShop.NET-main\\FLowerShop\\Service\\NoCacheAttribute.cs",
+              "RelativeToolTip": "FLowerShop\\Service\\NoCacheAttribute.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T15:32:25.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\tungh\\OneDrive\\M\u00E1y t\u00EDnh\\FLowerShop.NET-main\\FLowerShop.NET-main\\FLowerShop\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "FLowerShop\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\tungh\\OneDrive\\M\u00E1y t\u00EDnh\\FLowerShop.NET-main\\FLowerShop.NET-main\\FLowerShop\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "FLowerShop\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAGQBAAAAAAAAAAAQwJEBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T15:28:25.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FlowerTypesController.cs",
+              "DocumentMoniker": "C:\\Users\\tungh\\OneDrive\\M\u00E1y t\u00EDnh\\FLowerShop.NET-main\\FLowerShop.NET-main\\FLowerShop\\Controllers\\FlowerTypesController.cs",
+              "RelativeDocumentMoniker": "FLowerShop\\Controllers\\FlowerTypesController.cs",
+              "ToolTip": "C:\\Users\\tungh\\OneDrive\\M\u00E1y t\u00EDnh\\FLowerShop.NET-main\\FLowerShop.NET-main\\FLowerShop\\Controllers\\FlowerTypesController.cs",
+              "RelativeToolTip": "FLowerShop\\Controllers\\FlowerTypesController.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAIAwwBsAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T15:28:25.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "OrderHistory.cshtml",
+              "DocumentMoniker": "C:\\Users\\tungh\\OneDrive\\M\u00E1y t\u00EDnh\\FLowerShop.NET-main\\FLowerShop.NET-main\\FLowerShop\\Views\\Account\\OrderHistory.cshtml",
+              "RelativeDocumentMoniker": "FLowerShop\\Views\\Account\\OrderHistory.cshtml",
+              "ToolTip": "C:\\Users\\tungh\\OneDrive\\M\u00E1y t\u00EDnh\\FLowerShop.NET-main\\FLowerShop.NET-main\\FLowerShop\\Views\\Account\\OrderHistory.cshtml",
+              "RelativeToolTip": "FLowerShop\\Views\\Account\\OrderHistory.cshtml",
+              "ViewState": "AQIAADIAAAAAAAAAAAAowFYAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2024-11-30T15:28:25.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\tungh\\OneDrive\\M\u00E1y t\u00EDnh\\FLowerShop.NET-main\\FLowerShop.NET-main\\FLowerShop\\Views\\FlowerTypes\\Index.cshtml",
+              "RelativeDocumentMoniker": "FLowerShop\\Views\\FlowerTypes\\Index.cshtml",
+              "ToolTip": "C:\\Users\\tungh\\OneDrive\\M\u00E1y t\u00EDnh\\FLowerShop.NET-main\\FLowerShop.NET-main\\FLowerShop\\Views\\FlowerTypes\\Index.cshtml",
+              "RelativeToolTip": "FLowerShop\\Views\\FlowerTypes\\Index.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAEQAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2024-11-30T15:28:25.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\tungh\\OneDrive\\M\u00E1y t\u00EDnh\\FLowerShop.NET-main\\FLowerShop.NET-main\\FLowerShop\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "FLowerShop\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\tungh\\OneDrive\\M\u00E1y t\u00EDnh\\FLowerShop.NET-main\\FLowerShop.NET-main\\FLowerShop\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "FLowerShop\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2024-11-30T15:28:25.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ShoppingCartController.cs",
+              "DocumentMoniker": "C:\\Users\\tungh\\OneDrive\\M\u00E1y t\u00EDnh\\FLowerShop.NET-main\\FLowerShop.NET-main\\FLowerShop\\Controllers\\ShoppingCartController.cs",
+              "RelativeDocumentMoniker": "FLowerShop\\Controllers\\ShoppingCartController.cs",
+              "ToolTip": "C:\\Users\\tungh\\OneDrive\\M\u00E1y t\u00EDnh\\FLowerShop.NET-main\\FLowerShop.NET-main\\FLowerShop\\Controllers\\ShoppingCartController.cs",
+              "RelativeToolTip": "FLowerShop\\Controllers\\ShoppingCartController.cs",
+              "ViewState": "AQIAAMUAAAAAAAAAAAAswN8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T15:28:25.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Search.cshtml",
+              "DocumentMoniker": "C:\\Users\\tungh\\OneDrive\\M\u00E1y t\u00EDnh\\FLowerShop.NET-main\\FLowerShop.NET-main\\FLowerShop\\Views\\Flowers\\Search.cshtml",
+              "RelativeDocumentMoniker": "FLowerShop\\Views\\Flowers\\Search.cshtml",
+              "ToolTip": "C:\\Users\\tungh\\OneDrive\\M\u00E1y t\u00EDnh\\FLowerShop.NET-main\\FLowerShop.NET-main\\FLowerShop\\Views\\Flowers\\Search.cshtml",
+              "RelativeToolTip": "FLowerShop\\Views\\Flowers\\Search.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAE4AAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2024-11-30T15:28:25.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "_FLowerSearch.cshtml",
+              "DocumentMoniker": "C:\\Users\\tungh\\OneDrive\\M\u00E1y t\u00EDnh\\FLowerShop.NET-main\\FLowerShop.NET-main\\FLowerShop\\Views\\Shared\\_FLowerSearch.cshtml",
+              "RelativeDocumentMoniker": "FLowerShop\\Views\\Shared\\_FLowerSearch.cshtml",
+              "ToolTip": "C:\\Users\\tungh\\OneDrive\\M\u00E1y t\u00EDnh\\FLowerShop.NET-main\\FLowerShop.NET-main\\FLowerShop\\Views\\Shared\\_FLowerSearch.cshtml",
+              "RelativeToolTip": "FLowerShop\\Views\\Shared\\_FLowerSearch.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAADkAAAB+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2024-11-30T15:28:25.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "_FlowerType.cshtml",
+              "DocumentMoniker": "C:\\Users\\tungh\\OneDrive\\M\u00E1y t\u00EDnh\\FLowerShop.NET-main\\FLowerShop.NET-main\\FLowerShop\\Views\\Shared\\_FlowerType.cshtml",
+              "RelativeDocumentMoniker": "FLowerShop\\Views\\Shared\\_FlowerType.cshtml",
+              "ToolTip": "C:\\Users\\tungh\\OneDrive\\M\u00E1y t\u00EDnh\\FLowerShop.NET-main\\FLowerShop.NET-main\\FLowerShop\\Views\\Shared\\_FlowerType.cshtml",
+              "RelativeToolTip": "FLowerShop\\Views\\Shared\\_FlowerType.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAD0AAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2024-11-30T15:28:25.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\tungh\\OneDrive\\M\u00E1y t\u00EDnh\\FLowerShop.NET-main\\FLowerShop.NET-main\\FLowerShop\\Areas\\Admin\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "FLowerShop\\Areas\\Admin\\Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\Users\\tungh\\OneDrive\\M\u00E1y t\u00EDnh\\FLowerShop.NET-main\\FLowerShop.NET-main\\FLowerShop\\Areas\\Admin\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "FLowerShop\\Areas\\Admin\\Controllers\\OrdersController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAkwC8AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T15:28:25.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\tungh\\OneDrive\\M\u00E1y t\u00EDnh\\FLowerShop.NET-main\\FLowerShop.NET-main\\FLowerShop\\Areas\\Admin\\Views\\Account\\Edit.cshtml",
+              "RelativeDocumentMoniker": "FLowerShop\\Areas\\Admin\\Views\\Account\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\tungh\\OneDrive\\M\u00E1y t\u00EDnh\\FLowerShop.NET-main\\FLowerShop.NET-main\\FLowerShop\\Areas\\Admin\\Views\\Account\\Edit.cshtml",
+              "RelativeToolTip": "FLowerShop\\Areas\\Admin\\Views\\Account\\Edit.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAD4AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2024-11-30T15:28:25.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CheckoutController.cs",
+              "DocumentMoniker": "C:\\Users\\tungh\\OneDrive\\M\u00E1y t\u00EDnh\\FLowerShop.NET-main\\FLowerShop.NET-main\\FLowerShop\\Controllers\\CheckoutController.cs",
+              "RelativeDocumentMoniker": "FLowerShop\\Controllers\\CheckoutController.cs",
+              "ToolTip": "C:\\Users\\tungh\\OneDrive\\M\u00E1y t\u00EDnh\\FLowerShop.NET-main\\FLowerShop.NET-main\\FLowerShop\\Controllers\\CheckoutController.cs",
+              "RelativeToolTip": "FLowerShop\\Controllers\\CheckoutController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T15:28:25.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FlowersController.cs",
+              "DocumentMoniker": "C:\\Users\\tungh\\OneDrive\\M\u00E1y t\u00EDnh\\FLowerShop.NET-main\\FLowerShop.NET-main\\FLowerShop\\Controllers\\FlowersController.cs",
+              "RelativeDocumentMoniker": "FLowerShop\\Controllers\\FlowersController.cs",
+              "ToolTip": "C:\\Users\\tungh\\OneDrive\\M\u00E1y t\u00EDnh\\FLowerShop.NET-main\\FLowerShop.NET-main\\FLowerShop\\Controllers\\FlowersController.cs",
+              "RelativeToolTip": "FLowerShop\\Controllers\\FlowersController.cs",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAewHIAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T15:28:25.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Account.cshtml",
+              "DocumentMoniker": "C:\\Users\\tungh\\OneDrive\\M\u00E1y t\u00EDnh\\FLowerShop.NET-main\\FLowerShop.NET-main\\FLowerShop\\Views\\Account\\Account.cshtml",
+              "RelativeDocumentMoniker": "FLowerShop\\Views\\Account\\Account.cshtml",
+              "ToolTip": "C:\\Users\\tungh\\OneDrive\\M\u00E1y t\u00EDnh\\FLowerShop.NET-main\\FLowerShop.NET-main\\FLowerShop\\Views\\Account\\Account.cshtml",
+              "RelativeToolTip": "FLowerShop\\Views\\Account\\Account.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2024-11-30T15:28:25.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "FlowerTypesController.cs",
+              "DocumentMoniker": "C:\\Users\\tungh\\OneDrive\\M\u00E1y t\u00EDnh\\FLowerShop.NET-main\\FLowerShop.NET-main\\FLowerShop\\Areas\\Admin\\Controllers\\FlowerTypesController.cs",
+              "RelativeDocumentMoniker": "FLowerShop\\Areas\\Admin\\Controllers\\FlowerTypesController.cs",
+              "ToolTip": "C:\\Users\\tungh\\OneDrive\\M\u00E1y t\u00EDnh\\FLowerShop.NET-main\\FLowerShop.NET-main\\FLowerShop\\Areas\\Admin\\Controllers\\FlowerTypesController.cs",
+              "RelativeToolTip": "FLowerShop\\Areas\\Admin\\Controllers\\FlowerTypesController.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAgwCMAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T15:28:25.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "DiscountController.cs",
+              "DocumentMoniker": "C:\\Users\\tungh\\OneDrive\\M\u00E1y t\u00EDnh\\FLowerShop.NET-main\\FLowerShop.NET-main\\FLowerShop\\Areas\\Admin\\Controllers\\DiscountController.cs",
+              "RelativeDocumentMoniker": "FLowerShop\\Areas\\Admin\\Controllers\\DiscountController.cs",
+              "ToolTip": "C:\\Users\\tungh\\OneDrive\\M\u00E1y t\u00EDnh\\FLowerShop.NET-main\\FLowerShop.NET-main\\FLowerShop\\Areas\\Admin\\Controllers\\DiscountController.cs",
+              "RelativeToolTip": "FLowerShop\\Areas\\Admin\\Controllers\\DiscountController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T15:28:25.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "FlowersController.cs",
+              "DocumentMoniker": "C:\\Users\\tungh\\OneDrive\\M\u00E1y t\u00EDnh\\FLowerShop.NET-main\\FLowerShop.NET-main\\FLowerShop\\Areas\\Admin\\Controllers\\FlowersController.cs",
+              "RelativeDocumentMoniker": "FLowerShop\\Areas\\Admin\\Controllers\\FlowersController.cs",
+              "ToolTip": "C:\\Users\\tungh\\OneDrive\\M\u00E1y t\u00EDnh\\FLowerShop.NET-main\\FLowerShop.NET-main\\FLowerShop\\Areas\\Admin\\Controllers\\FlowersController.cs",
+              "RelativeToolTip": "FLowerShop\\Areas\\Admin\\Controllers\\FlowersController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T15:28:25.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "BaseController.cs",
+              "DocumentMoniker": "C:\\Users\\tungh\\OneDrive\\M\u00E1y t\u00EDnh\\FLowerShop.NET-main\\FLowerShop.NET-main\\FLowerShop\\Controllers\\BaseController.cs",
+              "RelativeDocumentMoniker": "FLowerShop\\Controllers\\BaseController.cs",
+              "ToolTip": "C:\\Users\\tungh\\OneDrive\\M\u00E1y t\u00EDnh\\FLowerShop.NET-main\\FLowerShop.NET-main\\FLowerShop\\Controllers\\BaseController.cs",
+              "RelativeToolTip": "FLowerShop\\Controllers\\BaseController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T15:28:25.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\tungh\\OneDrive\\M\u00E1y t\u00EDnh\\FLowerShop.NET-main\\FLowerShop.NET-main\\FLowerShop\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "FLowerShop\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\tungh\\OneDrive\\M\u00E1y t\u00EDnh\\FLowerShop.NET-main\\FLowerShop.NET-main\\FLowerShop\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "FLowerShop\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAABEAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T15:28:25.979Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\tungh\\OneDrive\\M\u00E1y t\u00EDnh\\FLowerShop.NET-main\\FLowerShop.NET-main\\FLowerShop\\Areas\\Admin\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "FLowerShop\\Areas\\Admin\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\tungh\\OneDrive\\M\u00E1y t\u00EDnh\\FLowerShop.NET-main\\FLowerShop.NET-main\\FLowerShop\\Areas\\Admin\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "FLowerShop\\Areas\\Admin\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAowA0AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T15:28:25.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\tungh\\OneDrive\\M\u00E1y t\u00EDnh\\FLowerShop.NET-main\\FLowerShop.NET-main\\FLowerShop\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "FLowerShop\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\tungh\\OneDrive\\M\u00E1y t\u00EDnh\\FLowerShop.NET-main\\FLowerShop.NET-main\\FLowerShop\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "FLowerShop\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAIcAAABeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2024-11-30T15:28:25.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\tungh\\OneDrive\\M\u00E1y t\u00EDnh\\FLowerShop.NET-main\\FLowerShop.NET-main\\FLowerShop\\Areas\\Admin\\Views\\Orders\\Index.cshtml",
+              "RelativeDocumentMoniker": "FLowerShop\\Areas\\Admin\\Views\\Orders\\Index.cshtml",
+              "ToolTip": "C:\\Users\\tungh\\OneDrive\\M\u00E1y t\u00EDnh\\FLowerShop.NET-main\\FLowerShop.NET-main\\FLowerShop\\Areas\\Admin\\Views\\Orders\\Index.cshtml",
+              "RelativeToolTip": "FLowerShop\\Areas\\Admin\\Views\\Orders\\Index.cshtml",
+              "ViewState": "AQIAAKcAAAAAAAAAAAAAAM8AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2024-11-30T15:28:25.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Detail.cshtml",
+              "DocumentMoniker": "C:\\Users\\tungh\\OneDrive\\M\u00E1y t\u00EDnh\\FLowerShop.NET-main\\FLowerShop.NET-main\\FLowerShop\\Areas\\Admin\\Views\\Orders\\Detail.cshtml",
+              "RelativeDocumentMoniker": "FLowerShop\\Areas\\Admin\\Views\\Orders\\Detail.cshtml",
+              "ToolTip": "C:\\Users\\tungh\\OneDrive\\M\u00E1y t\u00EDnh\\FLowerShop.NET-main\\FLowerShop.NET-main\\FLowerShop\\Areas\\Admin\\Views\\Orders\\Detail.cshtml",
+              "RelativeToolTip": "FLowerShop\\Areas\\Admin\\Views\\Orders\\Detail.cshtml",
+              "ViewState": "AQIAAHMAAAAAAAAAAAAAAJEAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2024-11-30T15:28:25.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\tungh\\OneDrive\\M\u00E1y t\u00EDnh\\FLowerShop.NET-main\\FLowerShop.NET-main\\FLowerShop\\Areas\\Admin\\Views\\FlowerTypes\\Edit.cshtml",
+              "RelativeDocumentMoniker": "FLowerShop\\Areas\\Admin\\Views\\FlowerTypes\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\tungh\\OneDrive\\M\u00E1y t\u00EDnh\\FLowerShop.NET-main\\FLowerShop.NET-main\\FLowerShop\\Areas\\Admin\\Views\\FlowerTypes\\Edit.cshtml",
+              "RelativeToolTip": "FLowerShop\\Areas\\Admin\\Views\\FlowerTypes\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAABuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2024-11-30T15:28:25.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Detail.cshtml",
+              "DocumentMoniker": "C:\\Users\\tungh\\OneDrive\\M\u00E1y t\u00EDnh\\FLowerShop.NET-main\\FLowerShop.NET-main\\FLowerShop\\Areas\\Admin\\Views\\Flowers\\Detail.cshtml",
+              "RelativeDocumentMoniker": "FLowerShop\\Areas\\Admin\\Views\\Flowers\\Detail.cshtml",
+              "ToolTip": "C:\\Users\\tungh\\OneDrive\\M\u00E1y t\u00EDnh\\FLowerShop.NET-main\\FLowerShop.NET-main\\FLowerShop\\Areas\\Admin\\Views\\Flowers\\Detail.cshtml",
+              "RelativeToolTip": "FLowerShop\\Areas\\Admin\\Views\\Flowers\\Detail.cshtml",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAACwAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2024-11-30T15:28:26.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "_MailTextToCustomer.cshtml",
+              "DocumentMoniker": "C:\\Users\\tungh\\OneDrive\\M\u00E1y t\u00EDnh\\FLowerShop.NET-main\\FLowerShop.NET-main\\FLowerShop\\Views\\Shared\\_MailTextToCustomer.cshtml",
+              "RelativeDocumentMoniker": "FLowerShop\\Views\\Shared\\_MailTextToCustomer.cshtml",
+              "ToolTip": "C:\\Users\\tungh\\OneDrive\\M\u00E1y t\u00EDnh\\FLowerShop.NET-main\\FLowerShop.NET-main\\FLowerShop\\Views\\Shared\\_MailTextToCustomer.cshtml",
+              "RelativeToolTip": "FLowerShop\\Views\\Shared\\_MailTextToCustomer.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2024-11-30T15:28:26.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\tungh\\OneDrive\\M\u00E1y t\u00EDnh\\FLowerShop.NET-main\\FLowerShop.NET-main\\FLowerShop\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "FLowerShop\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\tungh\\OneDrive\\M\u00E1y t\u00EDnh\\FLowerShop.NET-main\\FLowerShop.NET-main\\FLowerShop\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "FLowerShop\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2024-11-30T15:28:26.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\tungh\\OneDrive\\M\u00E1y t\u00EDnh\\FLowerShop.NET-main\\FLowerShop.NET-main\\FLowerShop\\Areas\\Admin\\Views\\Discount\\Index.cshtml",
+              "RelativeDocumentMoniker": "FLowerShop\\Areas\\Admin\\Views\\Discount\\Index.cshtml",
+              "ToolTip": "C:\\Users\\tungh\\OneDrive\\M\u00E1y t\u00EDnh\\FLowerShop.NET-main\\FLowerShop.NET-main\\FLowerShop\\Areas\\Admin\\Views\\Discount\\Index.cshtml",
+              "RelativeToolTip": "FLowerShop\\Areas\\Admin\\Views\\Discount\\Index.cshtml",
+              "ViewState": "AQIAACAAAAAAAAAAAIBpwEwAAABfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2024-11-30T15:28:26.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\tungh\\OneDrive\\M\u00E1y t\u00EDnh\\FLowerShop.NET-main\\FLowerShop.NET-main\\FLowerShop\\Areas\\Admin\\Views\\Discount\\Edit.cshtml",
+              "RelativeDocumentMoniker": "FLowerShop\\Areas\\Admin\\Views\\Discount\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\tungh\\OneDrive\\M\u00E1y t\u00EDnh\\FLowerShop.NET-main\\FLowerShop.NET-main\\FLowerShop\\Areas\\Admin\\Views\\Discount\\Edit.cshtml",
+              "RelativeToolTip": "FLowerShop\\Areas\\Admin\\Views\\Discount\\Edit.cshtml",
+              "ViewState": "AQIAADQAAAAAAAAAAEBVwFsAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2024-11-30T15:28:26.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Detail.cshtml",
+              "DocumentMoniker": "C:\\Users\\tungh\\OneDrive\\M\u00E1y t\u00EDnh\\FLowerShop.NET-main\\FLowerShop.NET-main\\FLowerShop\\Areas\\Admin\\Views\\Discount\\Detail.cshtml",
+              "RelativeDocumentMoniker": "FLowerShop\\Areas\\Admin\\Views\\Discount\\Detail.cshtml",
+              "ToolTip": "C:\\Users\\tungh\\OneDrive\\M\u00E1y t\u00EDnh\\FLowerShop.NET-main\\FLowerShop.NET-main\\FLowerShop\\Areas\\Admin\\Views\\Discount\\Detail.cshtml",
+              "RelativeToolTip": "FLowerShop\\Areas\\Admin\\Views\\Discount\\Detail.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAADUAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2024-11-30T15:28:26.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\tungh\\OneDrive\\M\u00E1y t\u00EDnh\\FLowerShop.NET-main\\FLowerShop.NET-main\\FLowerShop\\Areas\\Admin\\Views\\Account\\Index.cshtml",
+              "RelativeDocumentMoniker": "FLowerShop\\Areas\\Admin\\Views\\Account\\Index.cshtml",
+              "ToolTip": "C:\\Users\\tungh\\OneDrive\\M\u00E1y t\u00EDnh\\FLowerShop.NET-main\\FLowerShop.NET-main\\FLowerShop\\Areas\\Admin\\Views\\Account\\Index.cshtml",
+              "RelativeToolTip": "FLowerShop\\Areas\\Admin\\Views\\Account\\Index.cshtml",
+              "ViewState": "AQIAAFQAAAAAAAAAAAAowG4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2024-11-30T15:28:26.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "C:\\Users\\tungh\\OneDrive\\M\u00E1y t\u00EDnh\\FLowerShop.NET-main\\FLowerShop.NET-main\\FLowerShop\\Areas\\Admin\\Views\\Discount\\Add.cshtml",
+              "RelativeDocumentMoniker": "FLowerShop\\Areas\\Admin\\Views\\Discount\\Add.cshtml",
+              "ToolTip": "C:\\Users\\tungh\\OneDrive\\M\u00E1y t\u00EDnh\\FLowerShop.NET-main\\FLowerShop.NET-main\\FLowerShop\\Areas\\Admin\\Views\\Discount\\Add.cshtml",
+              "RelativeToolTip": "FLowerShop\\Areas\\Admin\\Views\\Discount\\Add.cshtml",
+              "ViewState": "AQIAADkAAAAAAAAAAAAAAFYAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2024-11-30T15:28:26.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "USER.cs",
+              "DocumentMoniker": "C:\\Users\\tungh\\OneDrive\\M\u00E1y t\u00EDnh\\FLowerShop.NET-main\\FLowerShop.NET-main\\FLowerShop\\Context\\USER.cs",
+              "RelativeDocumentMoniker": "FLowerShop\\Context\\USER.cs",
+              "ToolTip": "C:\\Users\\tungh\\OneDrive\\M\u00E1y t\u00EDnh\\FLowerShop.NET-main\\FLowerShop.NET-main\\FLowerShop\\Context\\USER.cs",
+              "RelativeToolTip": "FLowerShop\\Context\\USER.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAA1wC8AAACJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2024-11-30T15:28:26.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "C:\\Users\\tungh\\OneDrive\\M\u00E1y t\u00EDnh\\FLowerShop.NET-main\\FLowerShop.NET-main\\FLowerShop\\Areas\\Admin\\Views\\Account\\Add.cshtml",
+              "RelativeDocumentMoniker": "FLowerShop\\Areas\\Admin\\Views\\Account\\Add.cshtml",
+              "ToolTip": "C:\\Users\\tungh\\OneDrive\\M\u00E1y t\u00EDnh\\FLowerShop.NET-main\\FLowerShop.NET-main\\FLowerShop\\Areas\\Admin\\Views\\Account\\Add.cshtml",
+              "RelativeToolTip": "FLowerShop\\Areas\\Admin\\Views\\Account\\Add.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAC0AAABtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2024-11-30T15:28:26.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "DISCOUNTCODE.cs",
+              "DocumentMoniker": "C:\\Users\\tungh\\OneDrive\\M\u00E1y t\u00EDnh\\FLowerShop.NET-main\\FLowerShop.NET-main\\FLowerShop\\Context\\DISCOUNTCODE.cs",
+              "RelativeDocumentMoniker": "FLowerShop\\Context\\DISCOUNTCODE.cs",
+              "ToolTip": "C:\\Users\\tungh\\OneDrive\\M\u00E1y t\u00EDnh\\FLowerShop.NET-main\\FLowerShop.NET-main\\FLowerShop\\Context\\DISCOUNTCODE.cs",
+              "RelativeToolTip": "FLowerShop\\Context\\DISCOUNTCODE.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2024-11-30T15:28:26.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "_MailTextToAdmin.cshtml",
+              "DocumentMoniker": "C:\\Users\\tungh\\OneDrive\\M\u00E1y t\u00EDnh\\FLowerShop.NET-main\\FLowerShop.NET-main\\FLowerShop\\Views\\Shared\\_MailTextToAdmin.cshtml",
+              "RelativeDocumentMoniker": "FLowerShop\\Views\\Shared\\_MailTextToAdmin.cshtml",
+              "ToolTip": "C:\\Users\\tungh\\OneDrive\\M\u00E1y t\u00EDnh\\FLowerShop.NET-main\\FLowerShop.NET-main\\FLowerShop\\Views\\Shared\\_MailTextToAdmin.cshtml",
+              "RelativeToolTip": "FLowerShop\\Views\\Shared\\_MailTextToAdmin.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2024-11-30T15:28:26.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "_CartFlower.cshtml",
+              "DocumentMoniker": "C:\\Users\\tungh\\OneDrive\\M\u00E1y t\u00EDnh\\FLowerShop.NET-main\\FLowerShop.NET-main\\FLowerShop\\Views\\Shared\\_CartFlower.cshtml",
+              "RelativeDocumentMoniker": "FLowerShop\\Views\\Shared\\_CartFlower.cshtml",
+              "ToolTip": "C:\\Users\\tungh\\OneDrive\\M\u00E1y t\u00EDnh\\FLowerShop.NET-main\\FLowerShop.NET-main\\FLowerShop\\Views\\Shared\\_CartFlower.cshtml",
+              "RelativeToolTip": "FLowerShop\\Views\\Shared\\_CartFlower.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2024-11-30T15:28:26.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "OrderDetail.cshtml",
+              "DocumentMoniker": "C:\\Users\\tungh\\OneDrive\\M\u00E1y t\u00EDnh\\FLowerShop.NET-main\\FLowerShop.NET-main\\FLowerShop\\Views\\Account\\OrderDetail.cshtml",
+              "RelativeDocumentMoniker": "FLowerShop\\Views\\Account\\OrderDetail.cshtml",
+              "ToolTip": "C:\\Users\\tungh\\OneDrive\\M\u00E1y t\u00EDnh\\FLowerShop.NET-main\\FLowerShop.NET-main\\FLowerShop\\Views\\Account\\OrderDetail.cshtml",
+              "RelativeToolTip": "FLowerShop\\Views\\Account\\OrderDetail.cshtml",
+              "ViewState": "AQIAADwAAAAAAAAAAAAAAEoAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2024-11-30T15:28:26.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "C:\\Users\\tungh\\OneDrive\\M\u00E1y t\u00EDnh\\FLowerShop.NET-main\\FLowerShop.NET-main\\FLowerShop\\Areas\\Admin\\Views\\FlowerTypes\\Add.cshtml",
+              "RelativeDocumentMoniker": "FLowerShop\\Areas\\Admin\\Views\\FlowerTypes\\Add.cshtml",
+              "ToolTip": "C:\\Users\\tungh\\OneDrive\\M\u00E1y t\u00EDnh\\FLowerShop.NET-main\\FLowerShop.NET-main\\FLowerShop\\Areas\\Admin\\Views\\FlowerTypes\\Add.cshtml",
+              "RelativeToolTip": "FLowerShop\\Areas\\Admin\\Views\\FlowerTypes\\Add.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2024-11-30T15:28:26.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\tungh\\OneDrive\\M\u00E1y t\u00EDnh\\FLowerShop.NET-main\\FLowerShop.NET-main\\FLowerShop\\Areas\\Admin\\Views\\Flowers\\Index.cshtml",
+              "RelativeDocumentMoniker": "FLowerShop\\Areas\\Admin\\Views\\Flowers\\Index.cshtml",
+              "ToolTip": "C:\\Users\\tungh\\OneDrive\\M\u00E1y t\u00EDnh\\FLowerShop.NET-main\\FLowerShop.NET-main\\FLowerShop\\Areas\\Admin\\Views\\Flowers\\Index.cshtml",
+              "RelativeToolTip": "FLowerShop\\Areas\\Admin\\Views\\Flowers\\Index.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAKBrwE0AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2024-11-30T15:28:26.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Detail.cshtml",
+              "DocumentMoniker": "C:\\Users\\tungh\\OneDrive\\M\u00E1y t\u00EDnh\\FLowerShop.NET-main\\FLowerShop.NET-main\\FLowerShop\\Views\\Flowers\\Detail.cshtml",
+              "RelativeDocumentMoniker": "FLowerShop\\Views\\Flowers\\Detail.cshtml",
+              "ToolTip": "C:\\Users\\tungh\\OneDrive\\M\u00E1y t\u00EDnh\\FLowerShop.NET-main\\FLowerShop.NET-main\\FLowerShop\\Views\\Flowers\\Detail.cshtml",
+              "RelativeToolTip": "FLowerShop\\Views\\Flowers\\Detail.cshtml",
+              "ViewState": "AQIAAHsAAAAAAAAAAAAAAIIAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2024-11-30T15:28:26.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\tungh\\OneDrive\\M\u00E1y t\u00EDnh\\FLowerShop.NET-main\\FLowerShop.NET-main\\FLowerShop\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "FLowerShop\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\tungh\\OneDrive\\M\u00E1y t\u00EDnh\\FLowerShop.NET-main\\FLowerShop.NET-main\\FLowerShop\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "FLowerShop\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2024-11-30T15:28:26.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\tungh\\OneDrive\\M\u00E1y t\u00EDnh\\FLowerShop.NET-main\\FLowerShop.NET-main\\FLowerShop\\Areas\\Admin\\Views\\Flowers\\Edit.cshtml",
+              "RelativeDocumentMoniker": "FLowerShop\\Areas\\Admin\\Views\\Flowers\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\tungh\\OneDrive\\M\u00E1y t\u00EDnh\\FLowerShop.NET-main\\FLowerShop.NET-main\\FLowerShop\\Areas\\Admin\\Views\\Flowers\\Edit.cshtml",
+              "RelativeToolTip": "FLowerShop\\Areas\\Admin\\Views\\Flowers\\Edit.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAADIAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2024-11-30T15:28:26.064Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
